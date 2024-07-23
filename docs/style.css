@@ -95,7 +95,7 @@ p
     justify-content: center;
     align-content: center;
     flex-wrap: wrap;
-    background-image: url('../img/untitled.png');
+    background-image: url('img/untitled.png');
     background-position: center;
     background-repeat: no-repeat;
     background-color: #292929;
