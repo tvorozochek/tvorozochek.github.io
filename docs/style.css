@@ -265,3 +265,7 @@ p
     color: #fff;
     font-size: 18px;
 }
+
+::-webkit-scrollbar {
+  width: 0;
+}
